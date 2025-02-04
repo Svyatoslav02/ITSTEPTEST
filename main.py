@@ -93,7 +93,7 @@ while text != "stop":
     myfile.write(text)
 
 myfile.close()
-
+dfgdfgdfgdf
 """
 
 file = "NEWFILE.txt"
