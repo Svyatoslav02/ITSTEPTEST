@@ -89,7 +89,7 @@ import os
 
 myfile = open("ITSTEP.txt", "w")
 
-text = " "
+text = " "asd
 
 while text != "stop":
     text = input("Enter info : ")
